@@ -1,5 +1,5 @@
 import React from 'react' 
-const Profile = (props)=>{
+export default (props)=>{
     return(
         <>
             <div className="container h-auto w-96 rounded-lg text-center m-5 px-5 py-4  ">
@@ -11,4 +11,3 @@ const Profile = (props)=>{
         </>
     )
 }
-export default Profile

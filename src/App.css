@@ -13,8 +13,6 @@ h2{
 }
 p{
   line-height: 24px;
-  display: flex;
-  flex-wrap: wrap;
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 button{
