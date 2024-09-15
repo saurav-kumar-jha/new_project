@@ -1,0 +1,19 @@
+[{
+    "name": "John Doe",
+    "about": "Nam libero tempore, cum soluta nobis est eligendi optio...",
+    "img": "https://example.com/avatar1.jpg"
+
+},{
+    "name": "Mohamed Ali",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "img": "https://example.com/avatar1.jpg"
+  },{
+    "name": "Mohamed Ali",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "img": "https://example.com/avatar1.jpg"
+  },{
+    "name": "John Doe",
+    "about": "Pellentesque habitant morbi tristique senectus et netus...",
+    "img": "https://example.com/avatar1.jpg"
+  }
+]

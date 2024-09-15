@@ -1,20 +1,30 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
+ #root {
+  /* max-width: 1280px; */
+  /* margin: 0 auto;*/
+  /* padding: 2rem;  */
+  height: 100%;
+  width: 100%;
+  position: relative;
+} 
+.bgColor{
+  background:linear-gradient(44deg, #2b53a7,#1fcd75,#456474);
 }
+/* video{
+  position: absolute;
+  height: 100vh;
+  width: 100vw;
+  z-index: 1;
+} */
 .container{
   box-shadow: 0 0 10px wheat;
   max-height: 500px;
 }
 h2{
-  line-height: 30px;
   font-family: serif;
 }
-p{
-  line-height: 24px;
+/* p{
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
+} */
 button{
   transition: border-color 0.25s;
 }
