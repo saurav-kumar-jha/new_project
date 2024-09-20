@@ -1,4 +1,4 @@
-const Hero = ()=>{
+export const Hero = ()=>{
     return(
         <>
             {/* <video  src="/src/assets/2.mp4" autoPlay loop muted></video> */}
@@ -16,4 +16,3 @@ const Hero = ()=>{
         </>
     )
 }
-export default Hero

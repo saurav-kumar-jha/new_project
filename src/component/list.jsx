@@ -1,4 +1,4 @@
-import Public from 'G:/SAURAV/WEB DEV/react_with_vite/project/public/public.json'
+// import Public from '/public.json'
 // This is example of loop in React js How i use and how to implement
 
 const PublicData = () => {
