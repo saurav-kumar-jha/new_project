@@ -23,3 +23,14 @@
   min-width: 320px;
   min-height: 100vh;
 } */
+ .radius{
+  border-radius: 45px;
+ }
+.on{
+  transform: translateX(-50px);
+  transition-duration: 1s;
+}
+.off{
+  transform: translateX(50px);
+  transition-duration: 1s;
+}
